@@ -1,4 +1,8 @@
 # ML_project.github.io
+
+Hello teacher, there is our project's code.
+
+
 The model in the DCGAN_CIFAR10.py (Our main code) is the model set up by the group project, 
 
 
